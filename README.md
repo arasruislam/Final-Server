@@ -13,5 +13,7 @@
 
 * find all data from mongoDB using CRUD operation.
 * get all reviews data
+* create another collection [carts]
+* app.post('carts') operation on server side
 
 ## Using server side packages

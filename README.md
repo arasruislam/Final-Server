@@ -16,4 +16,8 @@
 * create another collection [carts]
 * app.post('carts') operation on server side
 
+## final server 03
+
+* create a get route for cart item and get it using email.
+
 ## Using server side packages

@@ -20,4 +20,8 @@
 
 * create a get route for cart item and get it using email.
 
+## final server 04
+
+* create a delete operation on carts.
+
 ## Using server side packages
